@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NCORE_API\\S10_ESAN_NCORE.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NCORE_API\\S10_ESAN_NCORE.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NCORE_API\\S10_ESAN_NCORE.API.csproj",
+        "projectName": "S10_ESAN_NCORE.API",
+        "projectPath": "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NCORE_API\\S10_ESAN_NCORE.API.csproj",
+        "packagesPath": "C:\\Users\\leo59\\.nuget\\packages\\",
+        "outputPath": "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NCORE_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leo59\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NETCORE_Domain\\S10_ESAN_NETCORE.Domain.csproj": {
+                "projectPath": "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NETCORE_Domain\\S10_ESAN_NETCORE.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NETCORE_Domain\\S10_ESAN_NETCORE.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NETCORE_Domain\\S10_ESAN_NETCORE.Domain.csproj",
+        "projectName": "S10_ESAN_NETCORE.Domain",
+        "projectPath": "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NETCORE_Domain\\S10_ESAN_NETCORE.Domain.csproj",
+        "packagesPath": "C:\\Users\\leo59\\.nuget\\packages\\",
+        "outputPath": "C:\\Cursos\\Ciclo2021_2\\Aplicaciones web\\Proyectos\\S10_ESAN_NCORE\\S10_ESAN_NETCORE_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leo59\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

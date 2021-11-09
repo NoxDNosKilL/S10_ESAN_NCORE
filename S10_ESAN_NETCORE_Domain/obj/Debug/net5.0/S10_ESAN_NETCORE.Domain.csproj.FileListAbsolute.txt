@@ -1,0 +1,15 @@
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\bin\Debug\net5.0\S10_ESAN_NETCORE.Domain.deps.json
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\bin\Debug\net5.0\S10_ESAN_NETCORE.Domain.runtimeconfig.json
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\bin\Debug\net5.0\S10_ESAN_NETCORE.Domain.runtimeconfig.dev.json
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\bin\Debug\net5.0\S10_ESAN_NETCORE.Domain.dll
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\bin\Debug\net5.0\ref\S10_ESAN_NETCORE.Domain.dll
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\bin\Debug\net5.0\S10_ESAN_NETCORE.Domain.pdb
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\S10_ESAN_NETCORE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\S10_ESAN_NETCORE.Domain.AssemblyInfoInputs.cache
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\S10_ESAN_NETCORE.Domain.AssemblyInfo.cs
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\S10_ESAN_NETCORE.Domain.csproj.CoreCompileInputs.cache
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\S10_ESAN_NETCORE.Domain.dll
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\ref\S10_ESAN_NETCORE.Domain.dll
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\S10_ESAN_NETCORE.Domain.pdb
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\S10_ESAN_NETCORE.Domain.genruntimeconfig.cache
+C:\Cursos\Ciclo2021_2\Aplicaciones web\Proyectos\S10_ESAN_NCORE\S10_ESAN_NETCORE_Domain\obj\Debug\net5.0\S10_ESAN_NETCORE.Domain.csproj.AssemblyReference.cache
